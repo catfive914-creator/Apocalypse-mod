@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "apocalypse",
+  "version": "1.0.0",
+  "name": "Apocalypse: Gods of Destruction",
+  "description": "Ultimate cinematic destruction mod",
+  "authors": ["Apocalypse"],
+  "license": "MIT",
+  "environment": "",
+  "entrypoints": {
+    "main": [
+      "dev.apocalypse.gods.ApocalypseMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": ""
+  }
+}
